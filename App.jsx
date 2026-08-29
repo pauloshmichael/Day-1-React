@@ -1,5 +1,5 @@
 import Header from './component/Header'
-import Dish from './component/Dish'
+import Dish from './Component/Dish'
 import { dishes } from './data/dishes'
 import './Css/style.css'
 
